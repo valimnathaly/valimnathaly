@@ -11,6 +11,7 @@
 *Atualmente estudando ReactJS!*
 ***
 :camera_flash: Me siga no [Instagram](https://www.instagram.com/valimnathaly/)
+
 :parrot: Meu perfil no [Twitter](https://twitter.com/valimnathaly_)
 
 ### Minhas metas
