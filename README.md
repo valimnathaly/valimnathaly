@@ -25,7 +25,7 @@
 
 ## Meus Projetos
 
-```Este diretório está vazio! :cry:```
+```Este diretório está vazio! :cry: ```
 
 Por enquanto vazio, mas pretendo colocar meus projetos antigos da época da escola (Java, C#, JS, Aplicativos Híbridos (Utilizando CORDOVA) e meu TCC). Não façam como eu e percam todo o seu trabalho, salvem na nuvem! Usem Git e GitHub!
 
