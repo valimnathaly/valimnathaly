@@ -9,7 +9,7 @@
 
 **Interesse em** TypeScript, ReactJS, React Native, NodeJS e tudo o que eu possa aprender
     
-    *Atualmente estudando ReactJS!*
+    Atualmente estudando ReactJS!
 ***
 :camera_flash: Me siga no [Instagram](https://www.instagram.com/valimnathaly/)
 
