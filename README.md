@@ -21,11 +21,12 @@
 3. Sentir orgulho do que faço e quem sou
 4. Começar e concluir a faculdade em Engenharia de Software
 5. Nunca parar
-6. ~~~Não ter mais que usar óculos um dia (Mas não vem ao caso)~~~ 
+6. ~~Não ter mais que usar óculos um dia (Mas não vem ao caso)~~ 
 
 ## Meus Projetos
 
 ```Este diretório está vazio! :cry:```
+
 Por enquanto vazio, mas pretendo colocar meus projetos antigos da época da escola (Java, C#, JS, Aplicativos Híbridos (Utilizando CORDOVA) e meu TCC). Não façam como eu e percam todo o seu trabalho, salvem na nuvem! Usem Git e GitHub!
 
 
